@@ -9,6 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" + "First change from java");
-        System.out.Println("changes made by Akshay");
+        System.out.println("changes made by Akshay");
     }
 }
